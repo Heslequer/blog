@@ -15,10 +15,20 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
 }
 
+h5 {
+  color: #2DC7ED;
+  font-weight: 300;
+}
+
 p {
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-style: normal;
+  color: #6D6E70;
+}
+
+.color-blue {
+  color: #2DC7ED;
 }
 
 .s-0 {
